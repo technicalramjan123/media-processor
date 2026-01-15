@@ -1,0 +1,4 @@
+firebase-admin
+yt-dlp
+flask
+
